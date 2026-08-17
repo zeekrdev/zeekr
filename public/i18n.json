@@ -1,0 +1,329 @@
+{
+  "universal": {
+    "news": {
+      "en": "News",
+      "uk": "Новини"
+    },
+    "more": {
+      "en": "More",
+      "uk": "Більше"
+    },
+    "accessories": {
+      "en": "Accessories",
+      "uk": "Аксесуари"
+    },
+    "show": {
+      "en": "Show",
+      "uk": "Показати"
+    },
+    "showAllCharacteristics": {
+      "en": "Show all characteristics",
+      "uk": "Показати всі характеристики"
+    }
+  },
+  "pages": {
+    "about": {
+      "letters": [
+        {
+          "letter": "ZE",
+          "definition": {
+            "en": "Stands for Zero, the starting point of infinite possibilities.",
+            "uk": "Означає Zero, відправну точку нескінченних можливостей."
+          }
+        },
+        {
+          "letter": "E",
+          "definition": {
+            "en": "Stands for Evolving the Electric Era.",
+            "uk": "Означає розвиток ери електромобілів."
+          }
+        },
+        {
+          "letter": "KR",
+          "definition": {
+            "en": "Stands for Krypton, a rare gas that emits light when electrified.",
+            "uk": "Означає Криптон, рідкісний газ, який випромінює світло при електризації."
+          }
+        }
+      ]
+    },
+    "car": {
+      "testDrive": {
+        "en": "Consultation",
+        "uk": "Консультація"
+      },
+      "order": {
+        "en": "Order",
+        "uk": "Замовити"
+      },
+      "priceList": {
+        "en": "Price list",
+        "uk": "Прайс-лист"
+      }
+    },
+    "guarantee": {
+      "userGuide": {
+        "en": "User guide",
+        "uk": "Посібник користувача"
+      },
+      "conditions": {
+        "en": "Guarantee conditions",
+        "uk": "Умови гарантії"
+      }
+    },
+    "home": {
+      "models": {
+        "en": "Models",
+        "uk": "Моделі"
+      },
+      "details": {
+        "en": "Details",
+        "uk": "Деталі"
+      }
+    },
+    "lending": {
+      "moreDetailsAboutConditions": {
+        "en": "More details about conditions",
+        "uk": "Докладніше про умови"
+      }
+    },
+    "404": {
+      "heading": {
+        "en": "404",
+        "uk": "404"
+      },
+      "text": {
+        "en": "We couldn’t find page you were looking for",
+        "uk": "Ми не змогли знайти сторінку, яку ви шукали"
+      },
+      "cta": {
+        "en": "Back to homepage",
+        "uk": "Повернутися на головну сторінку"
+      }
+    },
+    "service": {
+      "signUpForTheService": {
+        "en": "Sign up for the service",
+        "uk": "Записатися на сервіс"
+      }
+    },
+    "stock": {
+      "carsInStock": {
+        "en": "Cars in stock",
+        "uk": "Автомобілі в наявності"
+      },
+      "details": {
+        "en": "Details",
+        "uk": "Деталі"
+      },
+      "sendAnApplication": {
+        "en": "Send an application",
+        "uk": "Надіслати заявку"
+      },
+      "newCar": {
+        "en": "New car",
+        "uk": "Новий автомобіль"
+      },
+      "baseCharacteristics": {
+        "en": "Base characteristics",
+        "uk": "Базові характеристики"
+      },
+      "description": {
+        "en": "Description",
+        "uk": "Опис"
+      },
+      "techCharacteristics": {
+        "en": "Technical characteristics",
+        "uk": "Технічні характеристики"
+      },
+      "videoReview": {
+        "en": "Video review",
+        "uk": "Відео-огляд"
+      },
+      "interior": {
+        "en": "Interior",
+        "uk": "Інтер'єр"
+      },
+      "contactWithDealer": {
+        "en": "Contact with dealer",
+        "uk": "Зв'язатись з ділером"
+      },
+      "interestedIn": {
+        "en": "You may also be interested in",
+        "uk": "Вас також можуть зацікавити"
+      },
+      "priceFilter": {
+        "en": "Price, UAH",
+        "uk": "Ціна, грн"
+      },
+      "applyFilters": {
+        "en": "Apply filters",
+        "uk": "Застосувати фільтри"
+      },
+      "filters": {
+        "en": "Filters",
+        "uk": "Фільтри"
+      },
+      "sort": {
+        "en": "Sort",
+        "uk": "Сортування"
+      },
+      "notFound": {
+        "en": "Unfortunately, nothing was found for your query",
+        "uk": "Нажаль, за вашим запитом нічого не знайдено"
+      },
+      "otherOptions": {
+        "en": "Try using other filtering options and create your own Zeekr using the configurator",
+        "uk": "Спробуйте інші фільтри та створіть свій Zeekr в конфігураторі"
+      }
+    }
+  },
+  "mapOptions": {
+    "location": {
+      "en": "Our location",
+      "uk": "Наше розташування"
+    }
+  },
+  "contacts": {
+    "serviceCenterContacts": {
+      "en": "Service center contacts",
+      "uk": "Контакти сервісного центру"
+    },
+    "phone": {
+      "en": "(044) 487-36-93",
+      "uk": "(044) 487-36-93"
+    },
+    "geo": {
+      "en": "56 Stepan Bandera St., Kyiv",
+      "uk": "вул. Степана Бандери, 56, Київ"
+    },
+    "calendar": {
+      "en": "Mon-Sun: 08:00 – 20:00",
+      "uk": "Пн-Нд: 08:00 – 20:00"
+    },
+    "googleMap": {
+      "en": "Get directions on Google Maps",
+      "uk": "Отримати маршрут на Google Maps"
+    },
+    "waze": {
+      "en": "Get directions in Waze",
+      "uk": "Отримати маршрут у Waze"
+    }
+  },
+  "cookies": {
+    "heading": {
+      "en": "Accepting cookies",
+      "uk": "Прийняття файлів cookie"
+    },
+    "text1": {
+      "en": "We use cookies to improve the website. By clicking \"Accept All\", you consent to the collection and processing of",
+      "uk": "Ми використовуємо файли cookie для покращення роботи вебсайту. Натискаючи \"Прийняти всі\", ви погоджуєтеся на збір і обробку"
+    },
+    "cookies": {
+      "en": "cookies",
+      "uk": "файлів cookie"
+    },
+    "text2": {
+      "en": "and agree to the",
+      "uk": "та погоджуєтеся з"
+    },
+    "privacyPolicy": {
+      "en": "privacy policy",
+      "uk": "політикою конфіденційності"
+    },
+    "acceptAll": {
+      "en": "Accept all",
+      "uk": "Прийняти всі"
+    }
+  },
+  "legal": {
+    "copy": {
+      "en": "© {year} LLC \"SKM-1\".",
+      "uk": "© {year} ТОВ \"СКМ-1\"."
+    },
+    "info": {
+      "en": "Legal information",
+      "uk": "Юридична інформація"
+    },
+    "text1Before": {
+      "en": "*The vehicle price is stated without taking into account the cost of additional equipment. The price is calculated on the day of payment at PrivatBank's commercial exchange rate published at ",
+      "uk": "*Вартість автомобіля вказана без урахування вартості додаткового обладнання. Вартість розраховується на день оплати за комерційним курсом Приват Банк, опублікованим на сайті "
+    },
+    "text1After": {
+      "en": ". The calculation provided is preliminary and must be confirmed with official Zeekr dealers in Ukraine. The final vehicle price is stated in the purchase agreement on the date the agreement is signed.",
+      "uk": " Наведений розрахунок є попереднім і потребує уточнення у офіційних дилерів Zeekr в Україні. Остаточна вартість автомобіля вказується в договорі купівлі-продажу на дату підписання договору."
+    }
+  },
+  "modal": {
+    "chat": {
+      "en": "Contact us",
+      "uk": "Зв'язатися з нами"
+    },
+    "testDrive": {
+      "en": "Test drive sign-up",
+      "uk": "Запис на тест-драйв"
+    },
+    "car": {
+      "en": "Order a car",
+      "uk": "Купівля"
+    },
+    "service": {
+      "en": "Service request",
+      "uk": "Сервіс"
+    },
+    "diagnostics": {
+      "en": "Diagnostics request",
+      "uk": "Діагностика"
+    },
+    "fillInYourInfo": {
+      "en": "Fill in your contact information and we will contact you.",
+      "uk": "Заповніть вашу контактну інформацію, і ми зв’яжемося з вами."
+    },
+    "sentRequest": {
+      "en": "The request was sent",
+      "uk": "Запит надіслано"
+    },
+    "managerWillContactYou": {
+      "en": "Thank you for your request, our manager will contact you shortly",
+      "uk": "Дякуємо за ваш запит, наш менеджер зв’яжеться з вами найближчим часом"
+    },
+    "OK": {
+      "en": "Ok",
+      "uk": "Гаразд"
+    },
+    "submit": {
+      "en": "Send",
+      "uk": "Відправити"
+    },
+    "emailOptional": {
+      "en": "Email (optional)",
+      "uk": "Електронна пошта (необов’язково)"
+    },
+    "thankYouTitle": {
+      "en": "Thank you for registration!",
+      "uk": "Дякуємо за реєстрацію!"
+    },
+    "thankYouMessage": {
+      "en": "We have received your request. Our manager will contact you shortly to confirm your participation.",
+      "uk": "Ми отримали вашу заявку. Наш менеджер зв'яжеться з вами найближчим часом для підтвердження участі."
+    },
+    "backToHome": {
+      "en": "Back to homepage",
+      "uk": "Повернутися на головну"
+    }
+  },
+  "header": {
+    "models": {
+      "en": "Models",
+      "uk": "Моделі"
+    },
+    "discoverTheRange": {
+      "en": "Discover the range of electric vehicles",
+      "uk": "Ознайомтеся з асортиментом електромобілів"
+    },
+    "learn": {
+      "en": "Learn",
+      "uk": "Дізнатися"
+    }
+  }
+}

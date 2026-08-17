@@ -1,0 +1,1598 @@
+{
+  "layout": [
+    {
+      "type": "hero",
+      "dataKey": "hero"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockDesign"
+    },
+    {
+      "type": "navigationBlock",
+      "dataKey": "dimensionsBlock"
+    },
+    {
+      "type": "designBlock",
+      "dataKey": "frontViewBlock"
+    },
+    {
+      "type": "designBlock",
+      "dataKey": "exteriorDesignBlock"
+    },
+    {
+      "type": "designBlock",
+      "dataKey": "rearDesignBlock"
+    },
+    {
+      "type": "textSimpleBlock",
+      "dataKey": "textBlockLights"
+    },
+    {
+      "type": "imageTextBlock",
+      "dataKey": "headlightBlock"
+    },
+    {
+      "type": "imageTextBlock",
+      "dataKey": "taillightBlock"
+    },
+    {
+      "type": "imageTextBlock",
+      "dataKey": "projectionHeadlightBlock"
+    },
+    {
+      "type": "textSimpleBlock",
+      "dataKey": "textBlock360"
+    },
+    {
+      "type": "color360Block",
+      "dataKey": "color360Block"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockInterior"
+    },
+    {
+      "type": "textSimpleBlock",
+      "dataKey": "textBlockCabinSpace"
+    },
+    {
+      "type": "stargateBlock",
+      "dataKey": "cabinSpaceBlock"
+    },
+    {
+      "type": "textSimpleBlock",
+      "dataKey": "textBlockInsideTitle"
+    },
+    {
+      "type": "insideBlock",
+      "dataKey": "insideBlock"
+    },
+    {
+      "type": "textSimpleBlock",
+      "dataKey": "textBlockStorage"
+    },
+    {
+      "type": "storageGridBlock",
+      "dataKey": "storageGridBlock"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockCockpit"
+    },
+    {
+      "type": "performanceBlock",
+      "dataKey": "cockpitBlock"
+    },
+    {
+      "type": "textSimpleBlock",
+      "dataKey": "textBlockFirstClass"
+    },
+    {
+      "type": "stargateBlock",
+      "dataKey": "firstClassBlock"
+    },
+    {
+      "type": "featuresRowBlock",
+      "dataKey": "firstClassFeaturesBlock"
+    },
+    {
+      "type": "twoImagesBlock",
+      "dataKey": "seatsBlock"
+    },
+    {
+      "type": "designBlock",
+      "dataKey": "atmosphereBlock"
+    },
+    {
+      "type": "detailsFlexBlock",
+      "dataKey": "detailsBlock"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockSEP"
+    },
+    {
+      "type": "stargateBlock",
+      "dataKey": "hybridArchBlock"
+    },
+    {
+      "type": "twoImagesBlock",
+      "dataKey": "speedBlock"
+    },
+    {
+      "type": "engineSpecsBlock",
+      "dataKey": "engineSpecsBlock"
+    },
+    {
+      "type": "fullImageCaptionBlock",
+      "dataKey": "aiEnergyBlock"
+    },
+    {
+      "type": "fullVideoTabsBlock",
+      "dataKey": "thermalBlock"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockChassis"
+    },
+    {
+      "type": "twoImagesBlock",
+      "dataKey": "hardwareBlock"
+    },
+    {
+      "type": "stargateBlock",
+      "dataKey": "dinghaiBlock"
+    },
+    {
+      "type": "terrainBlock",
+      "dataKey": "terrainBlock"
+    },
+    {
+      "type": "twoImagesBlock",
+      "dataKey": "chassisFeaturesBlock"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockSafety"
+    },
+    {
+      "type": "fullVideoTabsBlock",
+      "dataKey": "safetyArmorBlock"
+    },
+    {
+      "type": "twoImagesBlock",
+      "dataKey": "batteryBlock"
+    },
+    {
+      "type": "engineSpecsBlock",
+      "dataKey": "driverAssistBlock"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockCockpit2"
+    },
+    {
+      "type": "stargateBlock",
+      "dataKey": "snapdragonBlock"
+    },
+    {
+      "type": "sliderBlock",
+      "dataKey": "screensSliderBlock"
+    },
+    {
+      "type": "textBlock",
+      "dataKey": "textBlockAI"
+    },
+    {
+      "type": "fullVideoTabsBlock",
+      "dataKey": "evaBlock"
+    },
+    {
+      "type": "imageBlock",
+      "dataKey": "detectBlock"
+    },
+    {
+      "type": "imageBlock",
+      "dataKey": "infoFullBlock"
+    },
+    {
+      "type": "twoImagesBlock",
+      "dataKey": "parkingVideosBlock"
+    }
+  ],
+  "versionsImages": {
+    "Zeekr 8X Max": "Zeekr 8X Max.webp",
+    "Zeekr 8X Ultra": "Zeekr 8X Ultra.webp",
+    "Zeekr 8X Ultra Plus": "Zeekr 8X Ultra Plus.webp"
+  },
+  "hero": {
+    "title": {
+      "ua": "ZEEKR 8X",
+      "en": "ZEEKR 8X"
+    },
+    "subtitle": {
+      "ua": "Суперпотужний гібридний флагманський позашляховик",
+      "en": "Super Hybrid High-Performance Flagship SUV"
+    },
+    "video": "hero_8x.mp4",
+    
+    "buttons": [
+      {
+        "text": {
+          "ua": "Замовити зараз",
+          "en": "Order Now"
+        },
+        "type": "order",
+        "style": "white"
+      },
+      {
+        "text": {
+          "ua": "Технічні характеристики",
+          "en": "Technical Specifications"
+        },
+        "type": "scroll_to",
+        "target": "techSpecsBlock",
+        "style": "transparent"
+      }
+    ]
+  },
+  "textBlockDesign": {
+    "image": "goldbadge.webp",
+    "title": {
+      "ua": "Пізнавай світ. Рухайся вільно, у гармонії з собою.",
+      "en": "Powerful Elegance"
+    },
+    "subtitle": {
+      "ua": "Естетика флагманської продуктивності",
+      "en": "Performance Flagship Aesthetics"
+    }
+  },
+  "dimensionsBlock": {
+    "image": {
+      "desktop": "size.webp",
+      "tablet": "size.webp",
+      "mobile": "size_mb.webp"
+    },
+    "specs": [
+      {
+        "value": "0.618",
+        "label": {
+          "ua": "Золоте співвідношення кузова",
+          "en": "Golden body proportion ratio"
+        }
+      },
+      {
+        "value": "1:4",
+        "label": {
+          "ua": "Співвідношення колісної бази до кузова",
+          "en": "Wheel-to-axle ratio"
+        }
+      }
+    ]
+  },
+  "frontViewBlock": {
+    "topTitle": {
+      "ua": "Монументальна сила. Образ, що домінує.",
+      "en": "Monumental Power. A Presence That Dominates."
+    },
+    "images": [
+      {
+        "desktop": "8x_view_1.webp",
+        "mobile": "8x_view_1.webp"
+      },
+      {
+        "desktop": "8x_view_2.webp",
+        "mobile": "8x_view_2.webp"
+      },
+      {
+        "desktop": "8x_view_3.webp",
+        "mobile": "8x_view_3.webp"
+      }
+    ],
+    "items": [
+      {
+        "title": {
+          "ua": "Цільна вертикальна решітка радіатора",
+          "en": "Integrated Waterfall Grille"
+        },
+        "description": {
+          "ua": "Натхненна архітектурою палаців — монументальний фасад шириною 1345 мм і висотою 671 мм, що транслює магнетизм та велич.",
+          "en": "Inspired by palace architecture — a monumental 1345mm wide, 671mm tall facade radiating magnetism and grandeur."
+        }
+      },
+      {
+        "title": {
+          "ua": "Подвійне AGS із адаптацією до швидкості",
+          "en": "Dual-Core Speed-Adaptive AGS"
+        },
+        "description": {
+          "ua": "Інтелектуальна вентильована решітка площею 100 000 мм² — ефективне охолодження та мінімальний аеродинамічний опір на будь-якій швидкості.",
+          "en": "100,000mm² intelligent breathing grille for efficient heat dissipation and minimum aerodynamic drag at any speed."
+        }
+      },
+      {
+        "title": {
+          "ua": "Цільний аеродинамічний капот",
+          "en": "Integrated Wind-Mastery Hood"
+        },
+        "description": {
+          "ua": "Бічні аеродинамічні канали знижують опір повітря та зміщують візуальний центр ваги вниз — силует стає ще більш зібраним та виразним.",
+          "en": "Side air channels reduce drag and lower the visual center of gravity — creating a tighter, more dynamic profile."
+        }
+      }
+    ]
+  },
+  "exteriorDesignBlock": {
+    "topTitle": {
+      "ua": "Безліч ліній — єдиний силует",
+      "en": "All Lines, One Silhouette"
+    },
+    "images": [
+      {
+        "desktop": "info1.webp",
+        "mobile": "info1_mb.webp"
+      },
+      {
+        "desktop": "info1.webp",
+        "mobile": "info1_mb.webp"
+      },
+      {
+        "desktop": "info1.webp",
+        "mobile": "info1_mb.webp"
+      },
+      {
+        "desktop": "info1.webp",
+        "mobile": "info1_mb.webp"
+      },
+      {
+        "desktop": "info1.webp",
+        "mobile": "info1_mb.webp"
+      }
+    ],
+    "items": [
+      {
+        "title": {
+          "ua": "Плавна лінія даху",
+          "en": "Gulf Stream Roofline"
+        },
+        "description": {
+          "ua": "Лінії кузова звужуються від задньої частини до передньої, немов потужна океанічна течія, формуючи відчуття руху та динаміки.",
+          "en": "Tapering from rear to front like a powerful Gulf Stream, sculpting a fluid and dynamic silhouette"
+        }
+      },
+      {
+        "title": {
+          "ua": "Динамічна плечова лінія",
+          "en": "Surge Shoulder Line"
+        },
+        "description": {
+          "ua": "Лінії плавно переходять від задніх ліхтарів уперед, легко огинаючи В-стійку, немов хвилі, що перекочуються, підкреслюючи ефект «парячого» даху та вікон.",
+          "en": "Flowing forward from the taillights, gently passing the B-pillar like a cresting wave, tracing the floating beauty of the windows"
+        }
+      },
+      {
+        "title": {
+          "ua": "Рельєфна поясна лінія у стилі фіордів",
+          "en": "Fjord Surge Waistline"
+        },
+        "description": {
+          "ua": "Виразні грані кузова, натхненні скандинавськими фіордами, поєднують приховану силу та стрімку енергію. У спокої — мов гладь озера, у русі — розкривають витончену красу й динаміку.",
+          "en": "The bold ridge line evokes a Nordic fjord — poised to surge, yet serene as a calm lake, revealing the sculpted beauty of the profile"
+        }
+      },
+      {
+        "title": {
+          "ua": "Двері з дзеркальною поверхнею без перепадів",
+          "en": "Zero-Gap Mirror Door"
+        },
+        "description": {
+          "ua": "Скло та дверні рамки ідеально вирівняні в єдину поверхню, створюючи ефект безшовного дзеркала — для витонченого вигляду та покращеної аеродинаміки.",
+          "en": "Glass flush with the door frame — like a seamless mirror, combining aesthetics with minimal aerodynamic drag"
+        }
+      },
+      {
+        "title": {
+          "ua": "Інтелектуальні електричні подвійні безпечні ручки дверей",
+          "en": "Smart Electric Dual-Safety Door Handle"
+        },
+        "description": {
+          "ua": "Інтелектуальне відкривання та закривання для максимального комфорту, механічний захист — для ще вищого рівня безпеки.",
+          "en": "Smart opening and closing for convenience, mechanical safety lock for reliability"
+        }
+      }
+    ]
+  },
+  "rearDesignBlock": {
+    "topTitle": {
+      "ua": "Внутрішня сила, що виразно розкривається у дизайні задньої частини.",
+      "en": "Powerful Character, Revealed at the Rear"
+    },
+    "images": [
+      "info2.webp"
+    ],
+    "items": [
+      {
+        "title": {
+          "ua": "Широкий приземистий дизайн задньої частини",
+          "en": "Wide-Body Low-Profile Rear Design"
+        },
+        "description": {
+          "ua": "Співвідношення ширини до висоти 1.12 формує характерну низьку посадку справжнього спортивного автомобіля. Лише один силует ззаду — і потужна динаміка відчувається з першого погляду.",
+          "en": "A 1:1.2 width-to-height ratio achieves the low-slung stance of a high-performance car — one rear silhouette alone radiates surging dynamism"
+        }
+      }
+    ]
+  },
+  "textBlockLights": {
+    "title": {
+      "ua": "Світлова графіка, натхненна зоряним сяйвом — жива, динамічна та виразна.",
+      "en": "Star Rhythm, Spirit of Light"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "headlightBlock": {
+    "image": "info3.webp",
+    "title": {
+      "ua": "Матричні фари «Зоряне сяйво»",
+      "en": "Star Diamond Matrix Headlights"
+    },
+    "features": [
+      {
+        "ua": "Широка світлова лінія втілює естетику горизонтів та гармонії простору.",
+        "en": "Wide light strip — horizontal aesthetic of sky and earth"
+      },
+      {
+        "ua": "У поверхню фар інтегровано 25 368 граней у формі діаманта.",
+        "en": "25,368 diamond-shaped facets in the reflector"
+      },
+      {
+        "ua": "Світло м'яко розсіюється, створюючи ефект сяючого зоряного неба.",
+        "en": "Diffuse reflection in light — like a brilliant starry galaxy"
+      }
+    ],
+    "textRight": false
+  },
+  "taillightBlock": {
+    "image": "info5.webp",
+    "title": {
+      "ua": "Наскрізні задні ліхтарі у стилі берегової лінії",
+      "en": "Coastline Running Tail Lights"
+    },
+    "features": [
+      {
+        "ua": "Задні ліхтарі складаються з 54 894 діамантових граней, що створюють ефект мерехтливого морського узбережжя.",
+        "en": "54,894 diamond facets forming a shimmering coastline"
+      },
+      {
+        "ua": "Технологія надяскравого червоного світла 630 нм забезпечує чудову видимість навіть у складних погодних умовах.",
+        "en": "630nm ultra-red technology — clearly visible in any weather"
+      }
+    ],
+    "textRight": true
+  },
+  "projectionHeadlightBlock": {
+    "image": "info4.webp",
+    "title": {
+      "ua": "Інтелектуальні HD-проекційні фари «Мова світла»",
+      "en": "Intelligent HD Projection Headlights"
+    },
+    "features": [
+      {
+        "ua": "Вони не лише освітлюють шлях, а й допомагають комунікувати з дорогою та оточенням.",
+        "en": "Not only illuminates the road, but also communicates"
+      },
+      {
+        "ua": "Світловий килим шириною 2,4 м забезпечує впевнене маневрування навіть для широкого кузова.",
+        "en": "2.4m light carpet covers even the wide body"
+      }
+    ],
+    "textRight": false
+  },
+  "textBlock360": {
+    "title": {
+      "ua": "Безмежна палітра небесних відтінків, втілена в кольорі.",
+      "en": "A World of Colors, Captured in One"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "color360Block": {
+    "colors": [
+      {
+        "id": "red",
+        "name": {
+          "ua": "Бургундський червоний",
+          "en": "Burgundy Red"
+        },
+        "value": "#6B1B2E",
+        "description": {
+          "ua": "Червоний «Хмарний захід»",
+          "en": ""
+        }
+      },
+      {
+        "id": "darkGrey",
+        "name": {
+          "ua": "Темно-сірий",
+          "en": "Dark Grey"
+        },
+        "value": "#4A4A4A",
+        "description": {
+          "ua": "Сірий «Морський місяць»",
+          "en": ""
+        }
+      },
+      {
+        "id": "lightGrey",
+        "name": {
+          "ua": "Світло-сірий",
+          "en": "Light Grey"
+        },
+        "value": "#C0C0C0",
+        "description": {
+          "ua": "Сріблястий «Холодне сяйво» ",
+          "en": ""
+        }
+      },
+      {
+        "id": "black",
+        "name": {
+          "ua": "Зоряний чорний",
+          "en": "Star Night Black"
+        },
+        "value": "#1A1A1A",
+        "description": {
+          "ua": "Чорний «Полярна ніч» ",
+          "en": ""
+        }
+      },
+      {
+        "id": "white",
+        "name": {
+          "ua": "Полярний білий",
+          "en": "Arctic White"
+        },
+        "value": "#F0EFEC",
+        "description": {
+          "ua": "Білий «Полярний день» ",
+          "en": ""
+        }
+      }
+    ],
+    "note": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "textBlockInterior": {
+    "image": "goldbadge.webp",
+    "title": {
+      "ua": "Розкіш із людським теплом",
+      "en": "Human Touch"
+    },
+    "subtitle": {
+      "ua": "Human Touch",
+      "en": ""
+    }
+  },
+  "textBlockCabinSpace": {
+    "title": {
+      "ua": "Гармонія простору та природи, що створює особливу атмосферу всередині.",
+      "en": "Heaven and Earth Embraced — A World of Its Own"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "cabinSpaceBlock": {
+    "video": "video2.mp4",
+    "specs": [
+      {
+        "value": "5.93 м²",
+        "label": {
+          "ua": "Простір у салоні",
+          "en": "Interior cabin space"
+        }
+      },
+      {
+        "value": ">1.18 м²",
+        "label": {
+          "ua": "Простір на пасажира",
+          "en": "Per-person space"
+        }
+      },
+      {
+        "value": "0.91 м²",
+        "label": {
+          "ua": "Панорамний дах",
+          "en": "Panoramic roof"
+        }
+      }
+    ]
+  },
+  "textBlockInsideTitle": {
+    "title": {
+      "ua": "Вражає з першого погляду, а кожен дотик наповнює відчуттям тепла та комфорту.",
+      "en": "Love at First Sight, Warmth at First Touch"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "insideBlock": {
+    "title": {
+      "ua": "",
+      "en": ""
+    },
+    "options": [
+      {
+        "id": "white_inside",
+        "name": {
+          "ua": "Біло-чорний",
+          "en": "White & Black"
+        },
+        "image": {
+          "desktop": "white_inside.webp",
+          "tablet": "white_inside.webp",
+          "mobile": "white_inside_mb.webp"
+        },
+        "description": {
+          "ua": "Чорно-білий",
+          "en": "Black & White"
+        }
+      },
+      {
+        "id": "brown_inside",
+        "name": {
+          "ua": "Коричнево-чорний",
+          "en": "Brown & Black"
+        },
+        "image": {
+          "desktop": "brown_inside.webp",
+          "tablet": "brown_inside.webp",
+          "mobile": "brown_inside_mb.webp"
+        },
+        "description": {
+          "ua": "Коричнево-чорний",
+          "en": "Brown & Black"
+        }
+      },
+      {
+        "id": "red_inside",
+        "name": {
+          "ua": "Червоний відблиск",
+          "en": "Red Shadow"
+        },
+        "image": {
+          "desktop": "red_inside.webp",
+          "tablet": "red_inside.webp",
+          "mobile": "red_inside_mb.webp"
+        },
+        "description": {
+            "ua": "Червоний «Багряний відблиск» ",
+            "en": "Red Shadow"
+        }
+      },
+      {
+        "id": "gray_inisde",
+        "name": {
+          "ua": "Чистий чорний",
+          "en": "Pure Black"
+        },
+        "image": {
+          "desktop": "black_inside.webp",
+          "tablet": "black_inside.webp",
+          "mobile": "black_inside_mb.webp"
+        },
+        "description": {
+          "ua": "Чорний",
+          "en": "Pure Black"
+        }
+      }
+    ],
+    "note": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "textBlockStorage": {
+    "title": {
+      "ua": "Масштабність, втілена в гармонії. Розкіш, що не потребує зайвої демонстрації.",
+      "en": "Large and Orderly — Hidden Yet Always at Hand"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "storageGridBlock": {
+    "layout": "featureSplit",
+    "items": [
+      {
+        "image": {
+          "desktop": "storage_1.webp",
+          "tablet": "storage_1.webp",
+          "mobile": "storage_1.webp"
+        },
+        "caption": {
+          "ua": "",
+          "en": ""
+        }
+      },
+      {
+        "image": {
+          "desktop": "storage_2.webp",
+          "tablet": "storage_2.webp",
+          "mobile": "storage_2.webp"
+        },
+        "caption": {
+          "ua": "",
+          "en": ""
+        }
+      },
+      {
+        "image": {
+          "desktop": "storage_3.webp",
+          "tablet": "storage_3.webp",
+          "mobile": "storage_3.webp"
+        },
+        "caption": {
+          "ua": "",
+          "en": ""
+        }
+      }
+    ]
+  },
+  "textBlockFirstClass": {
+    "title": {
+      "ua": "Преміальний салон із комфортом, гідним першого класу авіалайнера.",
+      "en": "Cloud First-Class Cabin"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "firstClassBlock": {
+    "video": "video3.mp4",
+    "label": {
+      "ua": "Крісло Eames Lounge",
+      "en": "Eames Recliner"
+    },
+    "specs": [
+      {
+        "value": "137°",
+        "label": {
+          "ua": "Максимальний кут нахилу спинки",
+          "en": "Maximum Recline Angle"
+        }
+      },
+      {
+        "value": "90°",
+        "label": {
+          "ua": "Регулювання\n4-напрямний електропривід опори для ніг + 2-напрямний електропривід підставки для стоп",
+          "en": "4-way electric leg rest + 2-way electric footrest"
+        }
+      },
+      {
+        "value": "150mm",
+        "label": {
+          "ua": "Максимальний хід регулювання сидіння",
+          "en": "Maximum Slide Travel"
+        }
+      }
+    ]
+  },
+  "firstClassFeaturesBlock": {
+    "items": [
+      {
+        "title": {
+          "ua": "Індивідуальний підлокітник другого ряду рівня «першого класу»",
+          "en": "Second-Row First-Class Private Armrest"
+        },
+        "description": {
+          "ua": "Надширокий центральний підлокітник шириною 291 мм — один із найширших у класі. Забезпечує максимальний комфорт і зручну підтримку під час подорожі.",
+          "en": "291mm ultra-wide center armrest — widest in its class, providing a perfect rest and support platform"
+        }
+      },
+      {
+        "title": {
+          "ua": "Електричні сонцезахисні шторки другого ряду",
+          "en": "Second-Row Electric Privacy Sunshade"
+        },
+        "description": {
+          "ua": "92% захисту від сонця та 70% світлопроникності. Електропривід із керуванням в один дотик.",
+          "en": "92% shade coverage, 70% light transmittance, one-touch electric activation"
+        }
+      },
+      {
+        "title": {
+          "ua": "SPA-масаж із 22 точками впливу",
+          "en": "22-Point SPA-Grade Massage"
+        },
+        "description": {
+          "ua": "8 режимів і 3 рівні інтенсивності. Техніки постукування та розминання забезпечують глибоке опрацювання м'язів.",
+          "en": "8 modes, 3 intensity levels, acupressure and kneading techniques for deep muscle relief"
+        }
+      },
+      {
+        "title": {
+          "ua": "Електрична підставка для ніг із відкидним механізмом",
+          "en": "Flip-Up Electric Running Board"
+        },
+        "description": {
+          "ua": "Відкривається знизу вгору за допомогою електроприводу, не потребуючи додаткового простору чи рухів пасажира.",
+          "en": "Electrically flips open from below — no manual operation required"
+        }
+      }
+    ]
+  },
+  "textBlockCockpit": {
+    "title": {
+      "ua": "Досконалий баланс розкоші та керованості, де кожна подорож стає особливим простором комфорту.",
+      "en": "Drive in Pleasure, Ride in Bliss"
+    },
+    "subtitle": {
+      "ua": "",
+      "en": ""
+    }
+  },
+  "cockpitBlock": {
+    "image1": "inside2.webp",
+    "image2": "inside1.webp",
+    "version1": {
+      "title": {
+        "ua": "Передній ряд із концепцією «обволікаючого» керування",
+        "en": "Cockpit Driver Front Row"
+      },
+      "specs": [
+        {
+          "value": {
+            "ua": "Кокпіт, орієнтований на водія.",
+            "en": "Enveloping Cockpit"
+          },
+          "label": {
+            "ua": "Об'ємне компонування створює ідеальний зв'язок між людиною та автомобілем, забезпечуючи інтуїтивне керування.",
+            "en": "Driver-centered design — the wraparound layout creates a precise connection between driver and vehicle"
+          }
+        },
+        {
+          "value": {
+            "ua": "Сидіння для максимального комфорту в далеких подорожах",
+            "en": "Long-Range Comfort Throne"
+          },
+          "label": {
+            "ua": "Активна бічна підтримка спинки водійського сидіння: реакція за 0,1 с, повне накачування за 1,5 с.\nПодовжувач подушки передніх сидінь: регулювання до 50 мм.",
+            "en": "Active lumbar support, liquid inflation in 0.1s, full inflation in 1.8s, auto-adjusting cushion and leg rest with 80mm travel range"
+          }
+        },
+        {
+          "value": {
+            "ua": "Багаторівнева архітектура салону",
+            "en": "Split-Level Cockpit Layout"
+          },
+          "label": {
+            "ua": "Панель керування, прилади та центральна консоль створені відповідно до реальних потреб водія — усе інтуїтивно та завжди під рукою.",
+            "en": "The driver's platform, instruments, and center console form a unified sealed cockpit for intuitive control"
+          }
+        }
+      ]
+    },
+    "version2": {
+      "title": {
+        "ua": "Розкішний задній ряд рівня MPV",
+        "en": "Luxury MPV-Class Second Row"
+      },
+      "note": {
+        "ua": "Ще більше простору та свободи для максимального комфорту в подорожі.",
+        "en": "Wider than its class — unlimited freedom to stretch"
+      },
+      "specs": [
+        {
+          "value": {
+            "ua": "Простір для повного розслаблення",
+            "en": "Stretch Freely — Legs Fully at Rest"
+          },
+          "label": {
+            "ua": "999 мм простору для ніг у другому ряду та 267 мм простору в зоні колін.",
+            "en": "999mm of leg space, 267mm of knee clearance"
+          }
+        },
+        {
+          "value": {
+            "ua": "Подвійні відкидні столики",
+            "en": "Dual Tray Table Design"
+          },
+          "label": {
+            "ua": "Для роботи, відпочинку чи подорожей — витримують до 15 кг навантаження.",
+            "en": "Space-saving work surface, supports up to 15kg"
+          }
+        },
+        {
+          "value": {
+            "ua": "Регулювання сидінь із ходом до 150 мм",
+            "en": "150mm Maximum Slide Travel"
+          },
+          "label": {
+            "ua": "Ще більше комфорту та турботи для кожного пасажира.",
+            "en": "Everything within reach, wherever you are"
+          }
+        },
+        {
+          "value": {
+            "ua": "Режим привітання",
+            "en": "Welcome Mode"
+          },
+          "label": {
+            "ua": "Полегшує посадку та висадку пасажирів другого ряду.",
+            "en": "Easy entry and exit for rear passengers"
+          }
+        }
+      ]
+    }
+  },
+  "hybridArchBlock": {
+    "video": "video4.mp4",
+    "label": {
+      "ua": "Повноцінна 900-вольтна високовольтна гібридна архітектура",
+      "en": "Full-Stack 900V Hybrid High-Voltage Architecture"
+    },
+    "labelSubtitle": {
+      "ua": "Висока потужність, надшвидка зарядка та низьке енергоспоживання.",
+      "en": "Powerful · Fast Charging · Low Energy Consumption"
+    },
+    "specs": []
+  },
+  "textBlockSEP": {
+   "title": {
+      "ua": "SEP - суперелектрогібрид",
+      "en": "SEP Haohao Super Hybrid"
+    },
+    "subtitle": {
+      "ua": "Потужність і свобода подорожей без обмежень, навіть на великих відстанях.",
+      "en": "Roam Freely — Fearless of the Distance"
+    },
+    "image": "goldbadge.webp"
+  },
+  "detailsBlock": {
+    "title": {
+      "ua": "Розкіш у деталях",
+      "en": "Luxury in the Details"
+    },
+    "subdir": "",
+    "items": [
+      {
+        "image": "detail1.webp",
+        "title": {
+          "ua": "Центральний підлокітник у стилі «метеликового мосту»",
+          "en": "Butterfly Bridge Central Armrest"
+        },
+        "description": {
+          "ua": "Забезпечує природну опору для рук і ще точніше відчуття керування.",
+          "en": "Arm support for more precise driving control"
+        }
+      },
+      {
+        "image": "detail2.webp",
+        "title": {
+          "ua": "Фізичні кнопки керування",
+          "en": "Physical Buttons"
+        },
+        "description": {
+          "ua": "Найважливіші функції завжди доступні інтуїтивно, навіть без погляду.",
+          "en": "Key functions directly accessible by touch"
+        }
+      },
+      {
+        "image": "detail3.webp",
+        "title": {
+          "ua": "Оздоблення з натурального дерева у скандинавському стилі",
+          "en": "Nordic Natural Wood Trim"
+        },
+        "description": {
+          "ua": "Натуральний білий ясен із восковою текстурою, вручну відполірований майстрами протягом 20 годин.",
+          "en": "Nappa birch wood, 20 hours of artisan hand carving"
+        }
+      },
+      {
+        "image": "detail4.webp",
+        "title": {
+          "ua": "Металевий текстурований регулятор",
+          "en": "Crystal Diamond Texture Knob"
+        },
+        "description": {
+          "ua": "Фаска 0,2 мм забезпечує бездоганно плавне та преміальне відчуття при кожному обертанні.",
+          "en": "0.2mm pitch — every turn is silky smooth"
+        }
+      },
+      {
+        "image": "detail5.webp",
+        "title": {
+          "ua": "Світлове кільце «Зоряне сяйво»",
+          "en": "Star Diamond Color Light Ring"
+        },
+        "description": {
+          "ua": "8 світлових елементів із діамантовим ефектом — вражають навіть у вимкненому стані.",
+          "en": "8 diamond light beads — brilliant even when unlit"
+        }
+      }
+    ]
+  },
+  "atmosphereBlock": {
+    "topTitle": {
+      "ua": "Атмосфера, що розкриває справжню розкіш у кожній деталі.",
+      "en": "Luxury in Every Detail"
+    },
+    "images": ["naim1.webp", "naim2.webp", "naim3.webp"],
+    "items": [
+      {
+        "title": {
+          "ua": "Аудіосистема Naim «Hall of Sound»",
+          "en": "Naim Concert Hall Audio System"
+        },
+        "description": {
+          "ua": "Пікова потужність аудіосистеми — 3868 Вт із надшироким діапазоном частот 20–40 000 Гц. Система формату 7.1.4 створює ефект повного занурення завдяки 29 преміальним динамікам та фірмовим титановим діафрагмам «M»-типу.",
+          "en": "Peak power 3868W, reproducing 20–40,000Hz ultra-wide frequency range; immersive 7.1.4 layout, 29 premium speakers, patented 'M'-type titanium diaphragm"
+        }
+      },
+      {
+        "title": {
+          "ua": "Атмосферне підсвічування з 16,8 млн кольорів у стилі кінозалу",
+          "en": "16.8 Million Color Theater Ambient Lighting"
+        },
+        "description": {
+          "ua": "Багатошарове інтелектуальне підсвічування з підтримкою 256-колірного спектру для точного налаштування",
+          "en": "Multi-layer intelligent ambient lighting with 256-color spectrum depth calibration"
+        }
+      },
+      {
+        "title": {
+          "ua": "Тризонний клімат-контроль із подвійним потоком повітря",
+          "en": "Three-Zone Dual-Flow Climate Control"
+        },
+        "description": {
+          "ua": "Незалежне тризонне керування кліматом і система подвійного потоку свіжого повітря. Верхній рівень із зовнішньою циркуляцією допомагає водієві залишатися бадьорим, а нижній внутрішній потік забезпечує додатковий комфорт і тепло для ніг.",
+          "en": "Independent three-zone control; dual-flow fresh air system — upper external circulation keeps the driver alert, lower internal circulation keeps legs warm"
+        }
+      }
+    ]
+  },
+  "safetyArmorBlock": {
+    "title": {
+      "ua": "Безпека флагманського рівня. Максимальний захист.",
+      "en": "Haohan Safety Armor"
+    },
+    "video": "video6.mp4",
+    "tabs": [
+      {
+        "label": {
+          "ua": "Цілісна подвійна кільцева структура дверей + подвійні силові балки безпеки",
+          "en": "Integrated Dual Ring + Dual Rod"
+        },
+        "description": {
+          "ua": "Завдяки цілісному литтю 2000 МПа гарячеформована сталь стійок A та B інтегрована з порогами та боковими елементами даху в єдину кільцеву силову структуру кузова.",
+          "en": "Through integrated die-casting, the 2000 MPa hot-formed A and B pillars are united with sills and roof side beams into a complete ring structure"
+        }
+      },
+      {
+        "label": {
+          "ua": "Алюмінієвий задній кузов третього покоління з цілісним литтям",
+          "en": "3rd-Gen FiberCrystal Rear Aluminum Body"
+        },
+        "description": {
+          "ua": "Завдяки цілісному литтю на прес-машині зусиллям 7200 тонн досягнуто вищої інтеграції конструкції, зменшення ваги авто та суттєвого підвищення жорсткості кузова. Деформація кузова зменшена на 16%, що забезпечує вищий рівень безпеки пасажирів.",
+          "en": "Formed in one shot on a 7200-ton press: higher integration, reduced weight, greatly improved body rigidity. Deformation reduced by 16% for occupant safety"
+        }
+      },
+      {
+        "label": {
+          "ua": "Третій енергопоглинаючий модуль",
+          "en": "Third Energy Absorption Box"
+        },
+        "description": {
+          "ua": "Третій енергопоглинаючий модуль розроблений із високою точністю, що дозволяє зменшити деформацію моторного щита під час зіткнення більш ніж на 20%. Ефективно скорочує проникнення передньої частини кузова на 40 мм, запобігаючи удару двигуна в пасажирський салон.",
+          "en": "The precisely engineered third crumple box reduces firewall deformation by over 20% in a crash, cutting front-end intrusion by 40 mm and keeping the engine out of the cabin"
+        }
+      },
+      {
+        "label": {
+          "ua": "Блок захисту від зіткнення",
+          "en": "Anti-Impact Stop Block"
+        },
+        "description": {
+          "ua": "Після десятків тисяч симуляцій прораховано траєкторію підрамника при ударі — блок жорстко утримує його на кузові, запобігаючи здавлюванню бака та ризику займання від витоку палива",
+          "en": "After tens of thousands of simulations, the subframe trajectory in a crash is predicted — the stop block locks it to the body, preventing fuel tank compression and fire risk from leaks"
+        }
+      }
+    ]
+  },
+  "batteryBlock": {
+    "cols": 3,
+    "objectFit": "contain",
+    "imageHeight": 380,
+    "images": [
+      {
+        "image": "battery.webp",
+        "title": { "ua": "«985» Фізичний захист", "en": "\"985\" Physical Protection" },
+        "description": { "ua": "«9 шарів захисту від бокового удару + 8 шарів захисту знизу + 5 шарів опори зверху» утворюють просторову фортецю — шар за шаром захищаючи елементи", "en": "9-layer side protection + 8-layer bottom protection + 5-layer top support form a three-dimensional fortress, layer by layer protecting every cell" }
+      },
+      {
+        "image": "battery1.webp",
+        "title": { "ua": "Технологія теплоелектричного розділення", "en": "Same-Side Thermal-Electric Separation" },
+        "description": { "ua": "Вентиляційні канали та провідні шини всередині елемента розділені — виключається ланцюгова реакція між перегрітим та іншими елементами", "en": "Exhaust channels and conductive busbars inside cells are separated, eliminating chain reaction between thermal runaway and other cells" }
+      },
+      {
+        "image": "battery2.webp",
+        "title": { "ua": "Протиударний бар'єр з десятьма відсіками", "en": "Ten-Cell Door Sill Anti-Collision Beam" },
+        "description": { "ua": "Конструкція з десятьма відсіками в порозі, натхненна водонепроникними відсіками авіаносців — послідовно поглинає удар, захищаючи акумулятор", "en": "Ten-cell door sill design inspired by aircraft carrier watertight compartments — absorbs impact layer by layer, reducing direct force on the battery pack" }
+      }
+    ]
+  },
+  "parkingVideosBlock": {
+    "images": [
+      {
+        "image": "last_1.mp4",
+        "poster": "last_2_placeholder.webp",
+        "title": { "ua": "Навігація по парковці без карти", "en": "Map-Free Parking Navigation" },
+        "description": { "ua": "З першого відвідування — одразу знаходить виїзд та вільне місце без попереднього картографування", "en": "From first visit — instantly finds exits and parking spots without prior mapping" }
+      },
+      {
+        "image": "last_2.mp4",
+        "poster": "last_1_placeholder.webp",
+        "title": { "ua": "Виклик жестом у повітрі", 
+        "en": "Gesture Summon" },
+        "description": { "ua": "Без телефону: помахайте рукою — і автомобіль самостійно виїде з місця у потрібному напрямку", "en": "No phone needed: wave your hand and the car drives out from its spot in your direction" }
+      }
+    ]
+  },
+  "infoFullBlock": {
+    "image": "info_full.webp",
+    "imageMobile": "info_full_mb.webp",
+    "marginTop": 20
+  },
+  "detectBlock": {
+    "image": "detect.webp",
+    "imageMobile": "detect_mb.webp"
+  },
+  "evaBlock": {
+    "image": "eva.webp",
+    "tabs": [
+      {
+        "label": { "ua": "Розмовляє", "en": "Conversationalist" },
+        "description": { "ua": "Живий співрозмовник: розуміє емоції та підхоплює жарти — спілкування за кермом стає природним і комфортним", "en": "A lively chat companion that understands emotions and keeps up with jokes — making in-car conversation natural and enjoyable" }
+      },
+      {
+        "label": { "ua": "Орієнтується", "en": "Road Expert" },
+        "description": { "ua": "Глибока навігація: пам'ятає маршрути, планує поїздки та дає розумні поради — як персональний дорожній радник", "en": "Deep navigation: remembers routes, plans trips and gives smart suggestions — like a personal travel advisor" }
+      },
+      {
+        "label": { "ua": "Бачить", "en": "Can See" },
+        "description": { "ua": "«Розумне око»: розпізнає людей, пейзажі та погоду за вікном — прогнозує поїздки, надійно та безпечно", "en": "\"Smart Eye\": recognizes people, scenery and weather outside — predicts your journey, reliably and safely" }
+      }
+    ]
+  },
+  "textBlockAI": {
+    "title": { "ua": "Ваш інтелектуальний помічник - Eva", "en": "Super Eva — AI Intelligent Life Entity" },
+
+    "subtitle": { "ua": "Надпотужне сприйняття. Надрозумне керування.", "en": "Ultra-strong perception, ultra-smart navigation" },
+    "image": "goldbadge.webp"
+  },
+  "screensSliderBlock": {
+    "title": { "ua": "Семиекранна взаємодія", "en": "Seven-Screen Interaction" },
+    "subtitle": { "ua": "Смартфон та автомобіль формують єдину інтерактивну екосистему", "en": "Phone and car system form a complete interactive ecosystem" },
+    "background": "#f5f6f7",
+    "slides": [
+      {
+        "image": "slider1.webp",
+        "title": { "ua": "16-дюймовий 3.5K OLED двоєкранний дисплей", "en": "16-inch 3.5K OLED Dual-Screen Display" },
+        "description": { "ua": "Частка екрану 88.4%, надтонкі рамки, роздільна здатність 3.5K — кольоропередача на рівні топових профі-моніторів", "en": "Screen ratio up to 88.4%, ultra-thin bezels, 3.5K resolution — color performance surpassing top professional monitors" }
+      },
+      {
+        "image": "slider2.webp",
+        "title": { "ua": "17-дюймовий 3K OLED стельовий дисплей", "en": "17-inch 3K OLED Ceiling Display" },
+        "description": { "ua": "3K роздільна здатність, контрастність 200 000:1, чітке та деталізоване зображення, кут нахилу 91°–107° у 5 положеннях — найкомфортніший перегляд", "en": "3K resolution, 200000:1 contrast ratio, sharper and more detailed image, 91°–107° angle in 5 positions for the most comfortable viewing experience" }
+      },
+      {
+        "image": "slider3.webp",
+        "title": { "ua": "8-дюймовий Mini-LED багатофункціональний смарт-дисплей", "en": "8-inch Mini-LED Multifunctional Smart Display" },
+        "description": { "ua": "Алюмосилікатне скло з 3A покриттям — чіткіший вигляд. Регулювання сидінь, шторок та підсвічування салону — все просто і швидко з одного екрану", "en": "Aluminum-silicate glass with 3A coating for sharper visuals. Adjust seats, blinds, ambient lighting and more — all from one convenient screen" }
+      },
+      {
+        "image": "slider4.webp",
+        "title": { "ua": "44-дюймовий AR-HUD", "en": "44-inch AR-HUD" },
+        "description": { "ua": "Наддвелике поле проєкції 44\", яскравість до 20 000 ніт, насичені та деталізовані кольори — чітко видно в будь-яку погоду: яскраве сонце, тунелі, дощ чи сніг", "en": "Ultra-large 44\" projection area, virtual image brightness up to 20000 nit, vivid colors — clearly visible in any condition: sun, tunnels, rain or snow" }
+      },
+      {
+        "image": "slider5.webp",
+        "title": { "ua": "13.02-дюймовий HD дисплей приладової панелі", "en": "13.02-inch HD Instrument Cluster" },
+        "description": { "ua": "Форма молодого місяця, яскравість 800 ніт — відмінно читається навіть на яскравому сонці. Три зони — чітке та інтуїтивне відображення", "en": "Crescent-moon design, 800 nit brightness — clearly visible in direct sunlight. Three-zone layout — clear and intuitive at a glance" }
+      }
+    ]
+  },
+  "snapdragonBlock": {
+    "image": { "desktop": "snapdragon.webp" },
+    "label": { "ua": "Інтелектуальний інтерактивний кокпіт", "en": "Intelligent Interactive Cockpit" },
+    "labelSubtitle": { "ua": "Подвійні чіпи Qualcomm Snapdragon 8295", "en": "Dual Qualcomm Snapdragon 8295 Cockpit Chips" }
+  },
+  "textBlockCockpit2": {
+    "title": { "ua": "AI-інтелектуальний простір повного занурення", "en": "AI Immersive Intelligent Cockpit" },
+    "subtitle": { "ua": "Преміальне оснащення, безмежний інтелектуальний комфорт", "en": "Premium Hardware, Boundless Intelligence" },
+    "image": "goldbadge.webp"
+  },
+  "driverAssistBlock": {
+    "title": {
+      "ua": "Прогнозована безпека, непомітний захист ",
+      "en": "Predictive Safety, Invisible Protection"
+    },
+    "background": "rgb(245, 246, 247)",
+    "rows": [
+      {
+        "image": "drive_1.webp",
+        "title": {
+          "ua": "AEB Аварійне гальмування при фронтальному зіткненні",
+          "en": "AEB Forward Collision Emergency Braking"
+        },
+        "description": {
+          "ua": "Надійні очі та рішучі руки — розпізнають потенційну небезпеку заздалегідь і нейтралізують її непомітно. Водіння стає спокійнішим.",
+          "en": "Reliable eyes and decisive hands — detect potential hazards in advance and neutralize them invisibly. Driving becomes more peace of mind."
+        }
+      },
+      {
+        "image": "drive_2.webp",
+        "imageRight": true,
+        "title": {
+          "ua": "AES Автоматичний аварійний поворот",
+          "en": "AES Automatic Emergency Steering"
+        },
+        "description": {
+          "ua": "Коли загальмувати вже не встигнути, система розумно допомагає «об'їхати» небезпеку — перетворюючи потенційний переляк на плавний та безпечний проїзд.",
+          "en": "When there's no time to brake, it smartly steers you around danger — turning a potential scare into a smooth, safe pass."
+        }
+      }
+    ]
+  },
+  "textBlockSafety": {
+    "title": {
+      "ua": "Комплексна безпека Zeekr у будь-яких умовах",
+      "en": "ZEEKR — Safety Across Every Dimension"
+    },
+    "image": "goldbadge.webp"
+  },
+  "chassisFeaturesBlock": {
+    "cols": 4,
+    "compact": true,
+    "objectFit": "cover",
+    "imageHeight": 300,
+    "images": [
+      {
+        "image": "terrain_video.mp4",
+        "title": {
+          "ua": "Інтелектуальна система стабілізації при боковому вітрі",
+          "en": "Intelligent Crosswind Control"
+        },
+        "description": {
+          "ua": "Безпечне проходження зон бокового вітру до 11 рівня на швидкості 150 км/год із відхиленням кузова менше 1 м",
+          "en": "Level-11 crosswind zone — safe passage at 150 km/h with body deviation under 1 m"
+        }
+      },
+      {
+        "image": "terrain2.webp",
+        "title": {
+          "ua": "Контроль автомобіля при раптовому розриві шини в будь-яких умовах",
+          "en": "All-Scenario Blowout Control"
+        },
+        "description": {
+          "ua": "На швидкості 140 км/год система за 0,2 с точно визначає місце розриву шини та миттєво втручається в гальмування для стабілізації авто",
+          "en": "Dual-wheel blowout on one side at 140 km/h — locates burst position in 0.2s and intervenes instantly"
+        }
+      },
+      {
+        "image": "terrain3.webp",
+        "title": {
+          "ua": "Режим «крабового ходу»",
+          "en": "Creep Mode"
+        },
+        "description": {
+          "ua": "Автомобіль автоматично підтримує задану швидкість у діапазоні 2–12 км/год",
+          "en": "Automatically maintains set speed in the 2–12 km/h range"
+        }
+      },
+      {
+        "image": "terrain4.webp",
+        "title": {
+          "ua": "Вирівнювання кузова однією кнопкою",
+          "en": "One-Touch Leveling"
+        },
+        "description": {
+          "ua": "Дозволяє вирівнювати нахил кузова вперед/назад і вліво/вправо, максимальний хід — 80 мм",
+          "en": "Front/rear and left/right body tilt leveling, maximum travel 80 mm"
+        }
+      }
+    ]
+  },
+  "terrainBlock": {
+    "image": "terrain.webp",
+    "title": {
+      "ua": "Режими руху для будь-якого рельєфу",
+      "en": "All-Terrain Driving Modes"
+    },
+    "standardModes": {
+      "title": {
+        "ua": "5 стандартних режимів",
+        "en": "5 Standard Modes"
+      },
+      "items": [
+        { "icon": "icon_comfort.webp", "label": { "ua": "Комфорт", "en": "Comfort" } },
+        { "icon": "icon_economy.webp", "label": { "ua": "Економія", "en": "Economy" } },
+        { "icon": "icon_sport.webp", "label": { "ua": "Спорт", "en": "Sport" } },
+        { "icon": "icon_sport.webp", "label": { "ua": "Спорт+", "en": "Sport+" } },
+        { "icon": "icon_comfort.webp", "label": { "ua": "Індивідуальний", "en": "Custom" } }
+      ]
+    },
+    "adaptiveModes": {
+      "title": {
+        "ua": "8 режимів для особливих покриттів",
+        "en": "8 Special Terrain Modes"
+      },
+      "items": [
+        { "icon": "icon_grass.webp", "label": { "ua": "Трава / Гравій", "en": "Grass / Gravel" } },
+        { "icon": "icon_snow.webp", "label": { "ua": "Легкий сніг", "en": "Light Snow" } },
+        { "icon": "icon_bigSnow.webp", "label": { "ua": "Глибокий сніг", "en": "Deep Snow" } },
+        { "icon": "icon_mud.webp", "label": { "ua": "Бездоріжжя", "en": "Mud" } },
+        { "icon": "icon_dessert.webp", "label": { "ua": "Пісок", "en": "Sand" } },
+        { "icon": "icon_rock.webp", "label": { "ua": "Скелі", "en": "Rock Crawling" } },
+        { "icon": "icon_mountain.webp", "label": { "ua": "Гірська дорога", "en": "Mountain Road" } },
+        { "icon": "icon_mud.webp", "label": { "ua": "Вода*", "en": "Wading*" } }
+      ]
+    },
+    "note": {
+      "ua": "Функція режиму подолання броду доступна у версіях Max, Ultra, Ultra+ та в комплектації «Qianli Haohan H9».",
+      "en": "*Wading mode is available in Max, Ultra, and Ultra+ configurations"
+    }
+  },
+  "dinghaiBlock": {
+    "image": {
+      "desktop": "desert1.webp"
+    },
+    "label": {
+      "ua": "Інтелектуальний центр керування нового покоління",
+      "en": "Dinghai Intelligent Central Hub"
+    }
+  },
+  "hardwareBlock": {
+    "title": {
+      "ua": "Надпотужне апаратне обладнання",
+      "en": "Super Hardware Equipment"
+    },
+    "subtitle": {
+      "ua": "Повна інтеграція інтелектуальних систем і передові налаштування для безкомпромісної динаміки та комфорту.",
+      "en": "Comprehensive intelligent response, breakthrough calibration"
+    },
+    "cols": 2,
+    "note": {
+      "ua": "*Дані отримано за результатами інженерних випробувань. Показники можуть відрізнятися залежно від умов: дорожнього покриття, погоди, рівня заряду, розміру шин і навантаження.",
+      "en": "*Data sourced from engineering tests. Results may vary depending on road conditions, weather, battery level, tire size, and load."
+    },
+    "images": [
+      {
+        "image": "podves1.webp",
+        "title": {
+          "ua": "Закрита двокамерна пневматична підвіска",
+          "en": "Closed Dual-Chamber Air Suspension"
+        },
+        "description": {
+          "ua": "Максимальний хід регулювання — 80 мм",
+          "en": "Maximum adjustment travel — 80 mm"
+        }
+      },
+      {
+        "image": "podves3.webp",
+        "title": {
+          "ua": "Електромагнітні амортизатори CCD з подвійними клапанами",
+          "en": "Dual-Valve CCD Electromagnetic Damper"
+        },
+        "description": {
+          "ua": "Незалежне керування стисненням і відбоєм забезпечує у 2–3 рази ширший діапазон демпфування порівняно зі звичайною одноклапанною системою CCD.",
+          "en": "Independent compression and rebound control; damping bandwidth 2–3× wider than single-valve CCD"
+        }
+      },
+      {
+        "image": "podves2.webp",
+        "title": {
+          "ua": "Активний стабілізатор поперечної стійкості",
+          "en": "Active Anti-Roll Bar"
+        },
+        "description": {
+          "ua": "Реакція 0.2с, балансувальний крутний момент 1400 Н·м, нульовий крен у швидких поворотах",
+          "en": "0.2s transient response, 1400 N·m balancing torque, near-zero body roll at high speed"
+        }
+      },
+      {
+        "image": "podves4.webp",
+        "title": {
+          "ua": "Гальмівний комплект підвищеної продуктивності",
+          "en": "High-Performance Brake Kit"
+        },
+        "description": {
+          "ua": "Чотирипоршневі помаранчеві супорти Brembo*, гальмівний шлях 100–0 км/год — 35 м*",
+          "en": "Brembo* four-piston orange calipers, 100–0 km/h braking distance 35 m*"
+        }
+      }
+    ]
+  },
+  "textBlockChassis": {
+    "title": {
+      "ua": "AI-цифрова платформа керування нового покоління",
+      "en": "Haohan AI Digital Chassis"
+    },
+    "subtitle": {
+      "ua": "Бездоганний комфорт і керованість — плавність руху на будь-якій дорозі",
+      "en": "Unmatched for driver and passenger — smooth road ahead"
+    },
+    "image": "goldbadge.webp"
+
+    
+  },
+  "thermalBlock": {
+    "title": {
+      "ua": "Комплексна система терморегулювання",
+      "en": "Full-Range Thermal Management System"
+    },
+    "video": "video5.mp4",
+    "tabs": [
+      {
+        "label": {
+          "ua": "Десятиджерельний тепловий насос",
+          "en": "Ten-Source Heat Pump"
+        },
+        "description": {
+          "ua": "Коефіцієнт використання залишкового тепла — до 95%",
+          "en": "Waste heat utilization rate up to 95%"
+        }
+      },
+      {
+        "label": {
+          "ua": "Найширший температурний діапазон серед гібридів",
+          "en": "Widest Hybrid Temperature Range"
+        },
+        "description": {
+          "ua": "Від -40°C до +50°C: миттєвий прогрів у лютий мороз, стабільна робота у спеку, без зниження потужності на великій швидкості",
+          "en": "From -40°C to +50°C: instant warm-up in extreme cold, stable performance in heat, no power loss at high speed"
+        }
+      },
+      {
+        "label": {
+          "ua": "Запатентована технологія розділення мастила та рідин електроприводу",
+          "en": "Oil decoupling technology"
+        },
+        "description": {
+          "ua": "Незалежна система циркуляції рідин забезпечує збільшений запас ходу в холодну погоду та ефективне охолодження при високих температурах.",
+          "en": "Oil decoupling: improved range in cold temperatures, efficient heat dissipation in high heat"
+        }
+      }
+    ]
+  },
+  "aiEnergyBlock": {
+    "background": "rgb(235, 232, 227)",
+    "title": {
+      "ua": "AI-інтелектуальне управління енергією",
+      "en": "AI Intelligent Energy Management"
+    },
+    "image": "info6.webp",
+    "subtitle": {
+      "ua": "Прогнозоване управління енергією, інтелектуальне планування споживання",
+      "en": "Predictive energy management, intelligent energy consumption planning"
+    },
+    "description": {
+      "ua": "12 режимів живлення з автоматичним переключенням, економія палива 3%–7%",
+      "en": "12 powertrain modes with automatic switching, fuel saving 3%–7%"
+    }
+  },
+  "engineSpecsBlock": {
+    "title": {
+      "ua": "Три силові установки. Дванадцять режимів руху",
+      "en": "Three Engines — Twelve Modes"
+    },
+    "subtitle": {
+      "ua": "Потужність, що вражає, — під повним контролем водія.",
+      "en": "Unstoppable power that lives within"
+    },
+    "background": "rgb(245, 246, 247)",
+    "rows": [
+      {
+        "image": "structure1.webp",
+        "imageRight": false,
+        "title": {
+          "ua": "Високопродуктивна електрична силова система",
+          "en": "High-Performance Electric Drive System"
+        },
+        "specs": [
+          {
+            "value": "3.7с",
+            "label": { "ua": "Найшвидший розгін 0–100 км/год", "en": "Fastest 0–100 km/h acceleration" }
+          },
+          {
+            "value": "660 кВт",
+            "label": { "ua": "Максимальна потужність", "en": "Maximum power" }
+          }
+        ]
+      },
+      {
+        "image": "structure2.webp",
+        "imageRight": true,
+        "title": {
+          "ua": "2.0T двигун нового покоління для супергібридної системи",
+          "en": "2.0T Super Hybrid Dedicated Engine"
+        },
+        "specs": [
+          {
+            "value": "205 кВт",
+            "label": { "ua": "Пікова потужність — 205 кВт", "en": "Peak power" }
+          },
+          {
+            "value": "46%+",
+            "label": { "ua": "Сукупний термічний ККД — понад 46%", "en": "Comprehensive thermal efficiency" }
+          }
+        ]
+      },
+      {
+        "image": "structure3.webp",
+        "imageRight": false,
+        "title": {
+          "ua": "Генератор-розширювач запасу ходу потужністю 145 кВт",
+          "en": "145 kW Range-Extending Generator"
+        },
+        "description": {
+          "ua": "Високошвидкісна генерація енергії та ефективність системи до 92%.\nРізниця в розгоні 0–100 км/год між повним і мінімальним зарядом батареї становить лише 0,2 с.",
+          "en": "Fast power generation, system efficiency up to 92%\n0–100 km/h difference between full and depleted battery — only 0.2s"
+        }
+      }
+    ]
+  },
+  "speedBlock": {
+    "objectFit": "cover",
+    "compact": true,
+    "images": [
+      { "image": "speed1.webp" },
+      { "image": "speed2.webp" }
+    ]
+  },
+  "seatsBlock": {
+    "title": {
+      "ua": "Достатньо лише сісти всередину — і розкіш відкривається у кожній деталі.",
+      "en": "Seated in Luxury"
+    },
+    "images": [
+      {
+        "image": "chair2.webp",
+        "title": {
+          "ua": "Сидіння з натуральної шкіри Nappa",
+          "en": "Nappa Leather Seats"
+        },
+        "description": {
+          "ua": "Подушка сидіння має 9-шарову структуру наповнення, а спинка — 8-рівневу систему підтримки для максимального комфорту.",
+          "en": "9-layer seat cushion filling structure, 8-layer backrest structural support"
+        }
+      },
+      {
+        "image": "chair1.webp",
+        "title": {
+          "ua": "Преміальні функції комфорту сидінь",
+          "en": "Luxury Seat Comfort Functions"
+        },
+        "description": {
+          "ua": "Підтримуються електрорегулювання, вентиляція, підігрів, масаж і пам'ять налаштувань. SPA-масаж із 22 точками впливу поєднує техніки постукування та розминання. Тривимірний глибокий масаж опрацьовує м'язи, знімає напругу в зоні попереку та стегон, допомагаючи розслабитися й зменшити втому.",
+          "en": "Electric adjustment/ventilation/heating/massage/memory; SPA-grade 22-point percussion and kneading; 3x deep-pressure massage penetrating deep muscle layers; maximum massage travel, knee and hip relaxation, pressure relief and fatigue recovery"
+        }
+      }
+    ]
+  }
+}
