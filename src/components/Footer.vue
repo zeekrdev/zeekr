@@ -20,6 +20,9 @@
             <span class="text__text">{{ getFirstText(developerText) }}</span>
           </a>
         </div> -->
+
+
+				
 			</div>
 
 			<div
