@@ -6,6 +6,8 @@
 		>
 			<Logo />
 
+
+			
 		</div>
 		<template v-if="data">
 			<article class="article-1-guarantee">
