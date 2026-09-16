@@ -102,6 +102,7 @@ export default function addDropdown(id, isLangs = false, isQuestion = false) {
 						});
 					}
 				}
+				
 			} else {
 				const iconOuter = parent.querySelector(".dropdown-icon--outer");
 
